@@ -1,7 +1,7 @@
 SALAMI resources
 ================
 
-This repository contains some helpful auxilliary files related to the [SALAMI project](http://ddmal.music.mcgill.ca/salami).
+This repository contains some helpful auxilliary files related to the [SALAMI project](http://ddmal.music.mcgill.ca/research/salami).
 
 Contents include:
 
